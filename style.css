@@ -1,0 +1,28 @@
+body{
+    background-color:antiquewhite;
+
+}
+.head{
+    color:darkblue;
+}
+#bglime{
+    background-color: blueviolet;
+    color:red;
+}
+
+p{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+}
+#para{
+    color:green;
+}
+p span{
+    color:black;
+    font-size:23px;
+}
+
+li span{
+    color:blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
